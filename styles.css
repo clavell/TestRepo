@@ -57,7 +57,8 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('https://picsum.photos/1400/989') no-repeat top center ;
+  /* background: url('https://picsum.photos/1400/989') no-repeat top center ; */
+  background: url('./images/escalator.jpg');
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
